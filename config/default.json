@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://admin:vKn4C4KsS4cTztoa@cluster0-tl2rs.gcp.mongodb.net/acms?retryWrites=true&w=majority",
+  "mongoURI": "<add your mongo uri>",
   "jwtSecret": "secret",
   "githubToken": "<yoursecrectaccesstoken>"
 }
